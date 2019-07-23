@@ -1,8 +1,25 @@
 
-The HTML files contain ng-Show directives to reveal all the concealed files.
+
+SOME POSSIBLE OPTIONS:
+
+(1)The HTML files contain ng-Show directives to reveal all the concealed files.
 
 The concealed files will only be revealed based on choice of buttons (Where are you from?/Where are you going?/Menu items?).
 
 https://www.w3schools.com/angular/angular_htmldom.asp
 --------------> https://www.w3schools.com/angular/tryit.asp?filename=try_ng_html_show
 
+
+....or.....
+
+
+(2)The HTML files contain ng-Options directives to display the selected files:
+
+https://www.w3schools.com/angular/angular_select.asp
+
+
+.....or....
+
+(3) The HTML files contain ng-Route directives to display the selected files:
+
+https://www.w3schools.com/angular/angular_routing.asp
