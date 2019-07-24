@@ -39,3 +39,10 @@ https://www.w3schools.com/angular/angular_select.asp
 (3) The HTML files contain ng-Route directives to display the selected files:
 
 https://www.w3schools.com/angular/angular_routing.asp
+
+
+
+
+....or.... using the Scope, as outlined in this file:
+
+https://github.com/abinjawed/ServiceNow/blob/master/Interview%20Preparation/Scripting/AngularJS/Scope.pdf
