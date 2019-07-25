@@ -46,3 +46,5 @@ https://www.w3schools.com/angular/angular_routing.asp
 ....or.... using the Scope, as outlined in this file:
 
 https://github.com/abinjawed/ServiceNow/blob/master/Interview%20Preparation/Scripting/AngularJS/Scope.pdf
+
+...the expression can be hidden, but onClick the expression will be displayed with "My name is {{name}}..." .
