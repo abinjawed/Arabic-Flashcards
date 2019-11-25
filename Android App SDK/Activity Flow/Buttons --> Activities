@@ -4,8 +4,22 @@ Activity 1: There are 9 Buttons:
 
 -Button (Letters)
       > Activity 2
+      
 -Button 2 (Numbers)
       > Activity 3
+      -Button Mia (1-100)
+            > Activity 3A
+      -Button Alf (100-1,000)
+            > Activity 3B
+      -Button MiaAlf (1,000-100,000)
+            > Activity 3C
+      -Button Milyun (100,000-1,000,000)
+            > Activity 3D
+      -Button Milyar (1,000,000-1,000,000,000)
+            > Activity 3E
+      -Button Trilyon (1,000,000,000-1,000,000,000,000)
+            > Activity 3F
+            
 -Button 3 (Colors)
       > Activity 4
 -Button 4 (Shapes)
