@@ -1,24 +1,24 @@
 
 
-Activity 1: There are 9 Buttons:
+Activity 1: There are 9 Image Buttons: (From Right to Left):
 
--Button (Letters)
+-Button 1 (Letters)
       > Activity 2
       
 -Button 2 (Numbers)
       > Activity 3
-      -Button Mia (1-100)
+      -Button Mia (1-100) by units of 1
             > Activity 3A
-      -Button Alf (100-1,000)
+      -Button Alf (100-1,000) by units of 100
             > Activity 3B
-      -Button MiaAlf (1,000-100,000)
+      -Button 3asharaAlf (1,000-10,000) by units of 1,000
             > Activity 3C
-      -Button Milyun (100,000-1,000,000)
+      -Button MiaAlf (10,000-100,000) by units of 10,000
             > Activity 3D
-      -Button Milyar (1,000,000-1,000,000,000)
+      -Button Milyun (100,000-1,000,000,000) by units of 100,000
             > Activity 3E
-      -Button Trilyon (1,000,000,000-1,000,000,000,000)
-            > Activity 3F
+      -Button Milyar (1,000,000,000)
+      -Button Trilyun (1,000,000,000,000)
             
 -Button 3 (Colors)
       > Activity 4
