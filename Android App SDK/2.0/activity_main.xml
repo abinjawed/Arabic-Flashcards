@@ -27,8 +27,6 @@
         android:layout_marginStart="33dp"
         android:layout_marginLeft="33dp"
         android:layout_marginTop="40dp"
-        android:layout_toEndOf="@+id/button3"
-        android:layout_toLeftOf="@+id/button3"
         android:background="@drawable/mainletters" />
 
     <Button
@@ -39,8 +37,6 @@
         android:layout_marginStart="33dp"
         android:layout_marginLeft="33dp"
         android:layout_marginTop="25dp"
-        android:layout_toEndOf="@+id/button5"
-        android:layout_toLeftOf="@+id/button5"
         android:background="@drawable/maincolors" />
 
     <Button
@@ -63,8 +59,6 @@
         android:layout_marginStart="33dp"
         android:layout_marginLeft="33dp"
         android:layout_marginTop="25dp"
-        android:layout_toEndOf="@+id/button7"
-        android:layout_toLeftOf="@+id/button7"
         android:background="@drawable/mainanimals" />
 
     <Button
@@ -87,8 +81,6 @@
         android:layout_marginStart="33dp"
         android:layout_marginLeft="33dp"
         android:layout_marginTop="25dp"
-        android:layout_toEndOf="@+id/button9"
-        android:layout_toLeftOf="@+id/button9"
         android:background="@drawable/mainpeople" />
 
     <Button
