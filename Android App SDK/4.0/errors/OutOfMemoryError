@@ -1,1 +1,3 @@
  java.lang.OutOfMemoryError: Failed to allocate a 6734604 byte allocation with 6618792 free bytes and 6MB until OOM
+
+(this was referring to the "BitmapFactory.java" file, which apparently had 42 errors according to the analyzer)
