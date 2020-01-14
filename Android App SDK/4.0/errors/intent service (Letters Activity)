@@ -1,0 +1,2 @@
+2020-01-13 21:36:12.201 25364-25364/? E/FirebaseInstanceId: Failed to resolve target intent service, skipping classname enforcement
+2020-01-13 21:36:12.202 25364-25364/? E/FirebaseInstanceId: Error while delivering the message: ServiceIntent not found.
