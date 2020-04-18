@@ -13,7 +13,6 @@
         android:layout_marginTop="120dp"
         android:layout_marginEnd="13dp"
         android:layout_marginRight="13dp"
-        android:text="@string/button"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -22,7 +21,6 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="120dp"
-        android:text="@string/button"
         app:layout_constraintEnd_toStartOf="@+id/alif"
         app:layout_constraintStart_toEndOf="@+id/taa"
         app:layout_constraintTop_toTopOf="parent" />
@@ -34,7 +32,6 @@
         android:layout_marginStart="12dp"
         android:layout_marginLeft="12dp"
         android:layout_marginTop="120dp"
-        android:text="@string/button"
         app:layout_constraintStart_toEndOf="@+id/tha"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -45,7 +42,6 @@
         android:layout_marginStart="13dp"
         android:layout_marginLeft="13dp"
         android:layout_marginTop="120dp"
-        android:text="@string/button"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -65,7 +61,6 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
-        android:text="@string/button"
         app:layout_constraintEnd_toStartOf="@+id/jeem"
         app:layout_constraintStart_toEndOf="@+id/kha"
         app:layout_constraintTop_toBottomOf="@+id/ba" />
@@ -77,7 +72,6 @@
         android:layout_marginStart="10dp"
         android:layout_marginLeft="10dp"
         android:layout_marginTop="10dp"
-        android:text="@string/button"
         app:layout_constraintStart_toEndOf="@+id/dal"
         app:layout_constraintTop_toBottomOf="@+id/taa" />
 
@@ -88,7 +82,6 @@
         android:layout_marginStart="13dp"
         android:layout_marginLeft="13dp"
         android:layout_marginTop="10dp"
-        android:text="@string/button"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/tha" />
 
@@ -112,7 +105,6 @@
         android:layout_marginTop="10dp"
         android:layout_marginEnd="10dp"
         android:layout_marginRight="10dp"
-        android:text="@string/button"
         app:layout_constraintEnd_toStartOf="@+id/thal"
         app:layout_constraintStart_toEndOf="@+id/zay"
         app:layout_constraintTop_toBottomOf="@+id/h6a" />
@@ -135,7 +127,6 @@
         android:layout_marginStart="13dp"
         android:layout_marginLeft="13dp"
         android:layout_marginTop="10dp"
-        android:text="@string/button"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/dal" />
 
@@ -157,7 +148,6 @@
         android:layout_marginTop="10dp"
         android:layout_marginEnd="10dp"
         android:layout_marginRight="10dp"
-        android:text="@string/button"
         app:layout_constraintEnd_toStartOf="@+id/sheen"
         app:layout_constraintTop_toBottomOf="@+id/ra" />
 
@@ -168,7 +158,6 @@
         android:layout_marginTop="10dp"
         android:layout_marginEnd="10dp"
         android:layout_marginRight="10dp"
-        android:text="@string/button"
         app:layout_constraintEnd_toStartOf="@+id/s9aad"
         app:layout_constraintTop_toBottomOf="@+id/zay" />
 
@@ -181,7 +170,6 @@
         android:layout_marginTop="10dp"
         android:layout_marginEnd="10dp"
         android:layout_marginRight="10dp"
-        android:text="@string/button"
         app:layout_constraintEnd_toStartOf="@+id/dhaad"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/seen" />
@@ -193,7 +181,6 @@
         android:layout_marginTop="10dp"
         android:layout_marginEnd="13dp"
         android:layout_marginRight="13dp"
-        android:text="@string/button"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/sheen" />
 
@@ -204,7 +191,6 @@
         android:layout_marginTop="10dp"
         android:layout_marginEnd="10dp"
         android:layout_marginRight="10dp"
-        android:text="@string/button"
         app:layout_constraintEnd_toStartOf="@+id/zha"
         app:layout_constraintTop_toBottomOf="@+id/s9aad" />
 
@@ -215,7 +201,6 @@
         android:layout_marginTop="10dp"
         android:layout_marginEnd="10dp"
         android:layout_marginRight="10dp"
-        android:text="@string/button"
         app:layout_constraintEnd_toStartOf="@+id/a3ayn"
         app:layout_constraintTop_toBottomOf="@+id/dhaad" />
 
@@ -228,7 +213,6 @@
         android:layout_marginTop="10dp"
         android:layout_marginEnd="10dp"
         android:layout_marginRight="10dp"
-        android:text="@string/button"
         app:layout_constraintEnd_toStartOf="@+id/ghayn"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/t6a" />
@@ -240,7 +224,6 @@
         android:layout_marginTop="10dp"
         android:layout_marginEnd="13dp"
         android:layout_marginRight="13dp"
-        android:text="@string/button"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/zha" />
 
@@ -251,7 +234,6 @@
         android:layout_marginTop="10dp"
         android:layout_marginEnd="10dp"
         android:layout_marginRight="10dp"
-        android:text="@string/button"
         app:layout_constraintEnd_toStartOf="@+id/qaf"
         app:layout_constraintTop_toBottomOf="@+id/a3ayn" />
 
@@ -262,7 +244,6 @@
         android:layout_marginTop="10dp"
         android:layout_marginEnd="10dp"
         android:layout_marginRight="10dp"
-        android:text="@string/button"
         app:layout_constraintEnd_toStartOf="@+id/kaf"
         app:layout_constraintTop_toBottomOf="@+id/ghayn" />
 
@@ -275,7 +256,6 @@
         android:layout_marginTop="10dp"
         android:layout_marginEnd="10dp"
         android:layout_marginRight="10dp"
-        android:text="@string/button"
         app:layout_constraintEnd_toStartOf="@+id/lam"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/fa" />
@@ -287,7 +267,6 @@
         android:layout_marginTop="10dp"
         android:layout_marginEnd="13dp"
         android:layout_marginRight="13dp"
-        android:text="@string/button"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/qaf" />
 
@@ -298,7 +277,6 @@
         android:layout_marginTop="10dp"
         android:layout_marginEnd="10dp"
         android:layout_marginRight="10dp"
-        android:text="@string/button"
         app:layout_constraintEnd_toStartOf="@+id/noon"
         app:layout_constraintTop_toBottomOf="@+id/kaf" />
 
@@ -309,7 +287,6 @@
         android:layout_marginTop="10dp"
         android:layout_marginEnd="10dp"
         android:layout_marginRight="10dp"
-        android:text="@string/button"
         app:layout_constraintEnd_toStartOf="@+id/zzha"
         app:layout_constraintTop_toBottomOf="@+id/lam" />
 
@@ -322,7 +299,6 @@
         android:layout_marginTop="10dp"
         android:layout_marginEnd="10dp"
         android:layout_marginRight="10dp"
-        android:text="@string/button"
         app:layout_constraintEnd_toStartOf="@+id/wow"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/meem" />
