@@ -1,4 +1,4 @@
-# Helloquence
+# Simply Arabic
 This is a packaged solution to give you a crash course in the Arabic language.
 
 ### Install
