@@ -2,7 +2,7 @@
 This is a packaged solution to give you a crash course in the Arabic language.
 
 ### Install
-Set up Account with Font Awesome: https://fontawesome.com/
+Set up Account with Font Awesome: https://fontawesome.com/ for the `button` elements in the `stories.html` file.
 
 ### Code
 
