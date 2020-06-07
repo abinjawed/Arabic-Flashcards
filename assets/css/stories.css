@@ -12,7 +12,7 @@ table {
   justify-items: center;
   align-tiems: center;
   padding: 20px 0 0 0;
-  direction: rtl
+  direction: rtl /*slider goes from right to left as dictated by Arabic*/
 }
 
 #slider=container {
