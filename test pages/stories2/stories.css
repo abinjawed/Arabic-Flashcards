@@ -1,0 +1,182 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#section-slider {
+  display: grid;
+  justify-items: center;
+  align-tiems: center;
+  padding: 20px 0 0 0;
+  direction: rtl /*slider goes from right to left as dictated by Arabic*/
+}
+
+#slider=container {
+  position: relative;
+}
+
+#slider {
+  display: flex;
+  height: 600px;
+  width: 800px;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  -webkit-overflow-scrolling: touch;
+  scroll-behavior: smooth;
+}
+
+#slider-container button {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  border: none;
+  cursor: pointer;
+  padding: 10px 15px;
+  border-radius: 50%;
+}
+
+#prev {
+  left: 10px;
+}
+
+#next {
+  right: 10px;
+}
+
+#slider-container:hover button {
+  opacity: 1;
+}
+
+#slider-container button:hover {
+  background-color: #000;
+}
+
+.imgslider {
+  flex: none;
+  scroll-snap-align: end;
+  padding-bottom: 5px;
+  position: relative;
+  animation: fader;
+}
+
+.imgslider img {
+  display: block;
+  width: 100%;
+  height: 50%;
+}
+
+.imgslider1, .imgslider2, .imgslider3, .imgslider4
+{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+.imgslider1
+{
+  background-image:SimplyArabic/images/clip1.png;
+  background-repeat: no-repeat;
+  background-size: cover;
+  animation: fade1 8s infinite;
+}
+
+.imgslider2
+{
+  background-image:SimplyArabic/images/clip2.png;
+  background-repeat: no-repeat;
+  background-size: cover;
+  animation: fade2 8s infinite;
+}
+
+.imgslider3
+{
+  background-image:SimplyArabic/images/clip3.png;
+  background-repeat: no-repeat;
+  background-size: cover;
+  animation: fade3 8s infinite;
+}
+
+.imgslider4
+{
+  background-image:SimplyArabic/images/clip4.png;
+  background-repeat: no-repeat;
+  background-size: cover;
+  animation: fade4 8s infinite;
+}
+
+@keyframes fade1
+{
+  0%
+  {
+    opacity: 1;
+  }
+  25%
+  {
+    opacity:0;
+  }
+  75%
+  {
+    opacity: 0;
+  }
+  100%
+  {
+    opacity: 0;
+  }
+}
+@keyframes fade2
+{
+  0%
+  {
+    opacity: 0;
+  }
+  25%
+  {
+    opacity:1;
+  }
+  75%
+  {
+    opacity: 0;
+  }
+  100%
+  {
+    opacity: 1;
+  }
+}
+@keyframes fade3
+{
+  0%
+  {
+    opacity: 0;
+  }
+  25%
+  {
+    opacity:0;
+  }
+  75%
+  {
+    opacity: 1;
+  }
+  100%
+  {
+    opacity: 0;
+  }
+}
+@keyframes fade4
+{
+  0%
+  {
+    opacity: 0;
+  }
+  25%
+  {
+    opacity:0;
+  }
+  75%
+  {
+    opacity: 0;
+  }
+  100%
+  {
+    opacity: 1;
+  }
+}
