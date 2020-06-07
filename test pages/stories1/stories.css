@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+table {
+  height: 100vh;
+}
+
+#section-slider {
+  display: grid;
+  justify-items: center;
+  align-tiems: center;
+  padding: 20px 0 0 0;
+  direction: rtl /*slider goes from right to left as dictated by Arabic*/
+}
+
+#slider=container {
+  position: relative;
+}
+
+#slider {
+  display: flex;
+  height: 600px;
+  width: 800px;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  -webkit-overflow-scrolling: touch;
+  scroll-behavior: smooth;
+}
+
+.img-slider {
+  flex: none;
+  scroll-snap-align: end;
+  padding-bottom: 5px;
+  position: relative;
+  transition:
+}
+
+.img-slider img {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
