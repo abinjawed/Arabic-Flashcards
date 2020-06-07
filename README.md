@@ -4,7 +4,7 @@ This is a packaged solution to give you a crash course in the Arabic language.
 ### Install
 
 ### Code
-The `stories.html` page has `button` elements requring a kit code from `fontawesome.com` to be linked from the personal account.
+The `stories.html` page has `button` elements requiring a kit code from `fontawesome.com` to be linked.
 
 ### Run
 
