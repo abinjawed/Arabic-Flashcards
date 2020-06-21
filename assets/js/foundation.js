@@ -40,7 +40,7 @@ var e = document.getElementById("alarqam");
 function playAudio() {
   e.play();
   e.onended  = function(){
-  window.location.href = "alalrqam.html";
+  window.location.href = "alarqam.html";
     }
 }
 
