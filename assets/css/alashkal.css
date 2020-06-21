@@ -1,0 +1,129 @@
+.imgBoxStar
+    {
+      width: 264px;
+      height: 262px;
+      background:url("images/star.png") no-repeat center;
+      background-size: 40%;
+    }
+.imgBoxStar:hover {
+      width: 264px;
+      height: 262px;
+      background:url("images/stararabic.png") no-repeat center;
+      background-size: 40%;
+    }
+
+.imgBoxArrow
+    {
+      width: 264px;
+      height: 262px;
+      background: url("images/arrow.png") no-repeat center;
+      background-size: 40%;
+    }
+.imgBoxArrow:hover {
+      width: 264px;
+      height: 262px;
+      background: url("images/arrowarabic.png") no-repeat center;
+      background-size: 40%;
+    }
+
+.imgBoxCircle
+    {
+      width: 264px;
+      height: 262px;
+      background: url("images/circle.png") no-repeat center;
+      background-size: 40%;
+    }
+.imgBoxCircle:hover {
+      width: 264px;
+      height: 262px;
+      background: url("images/circlearabic.png") no-repeat center;
+      background-size: 40%;
+    }
+
+.imgBoxDiamond
+    {
+      width: 264px;
+      height: 262px;
+      background: url("images/diamond.png") no-repeat center;
+      background-size: 40%;
+    }
+.imgBoxDiamond:hover {
+      width: 264px;
+      height: 262px;
+      background: url("images/diamondarabic.png") no-repeat center;
+      background-size: 40%;
+    }
+
+.imgBoxArrow
+    {
+      width: 264px;
+      height: 262px;
+      background: url("images/arrow.png") no-repeat center;
+      background-size: 40%;
+    }
+.imgBoxArrow:hover {
+      width: 264px;
+      height: 262px;
+      background: url("images/arrowarabic.png") no-repeat center;
+      background-size: 40%;
+    }
+
+.imgBoxHeart
+    {
+      width: 264px;
+      height: 262px;
+      background: url("images/heart.png") no-repeat center;
+      background-size: 40%;
+    }
+.imgBoxHeart:hover {
+      width: 264px;
+      height: 262px;
+      background: url("images/heartarabic.png") no-repeat center;
+      background-size: 40%;
+    }
+
+.imgBoxRectangle
+    {
+      width: 264px;
+      height: 262px;
+      background: url("images/rectangle.png") no-repeat center;
+      background-size: 40%;
+    }
+.imgBoxRectangle:hover {
+      width: 264px;
+      height: 262px;
+      background: url("images/rectanglearabic.png") no-repeat center;
+      background-size: 40%;
+    }
+
+.imgBoxSquare
+    {
+      width: 264px;
+      height: 262px;
+      background: url("images/square.png") no-repeat center;
+      background-size: 40%;
+    }
+.imgBoxSquare:hover {
+      width: 264px;
+      height: 262px;
+      background: url("images/squarearabic.png") no-repeat center;
+      background-size: 40%;
+    }
+
+.imgBoxTriangle
+    {
+      width: 264px;
+      height: 262px;
+      background: url("images/triangle.png") no-repeat center;
+      background-size: 40%;
+    }
+.imgBoxTriangle:hover {
+      width: 264px;
+      height: 262px;
+      background: url("images/trianglearabic.png") no-repeat center;
+      background-size: 40%;
+    }
+
+h2 {
+  margin: 5px 0 0 135px;
+}
