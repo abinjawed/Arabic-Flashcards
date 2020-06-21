@@ -3,10 +3,6 @@ body {
   padding: 0;
 }
 
-table {
-  height: 100vh;
-}
-
 #section-slider {
   display: grid;
   justify-items: center;
@@ -29,16 +25,158 @@ table {
   scroll-behavior: smooth;
 }
 
-.img-slider {
+#slider-container button {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  border: none;
+  cursor: pointer;
+  padding: 10px 15px;
+  border-radius: 50%;
+}
+
+#prev {
+  left: 10px;
+}
+
+#next {
+  right: 10px;
+}
+
+#slider-container:hover button {
+  opacity: 1;
+}
+
+#slider-container button:hover {
+  background-color: #000;
+}
+
+.imgslider {
   flex: none;
   scroll-snap-align: end;
   padding-bottom: 5px;
   position: relative;
-  transition:
+  animation: fader;
 }
 
-.img-slider img {
+.imgslider img {
   display: block;
   width: 100%;
+  height: 50%;
+}
+
+.imgslider1, .imgslider2, .imgslider3, .imgslider4
+{
+  position: absolute;
+  width: 100%;
   height: 100%;
+}
+
+.imgslider1
+{
+  background-image:SimplyArabic/images/clip1.png;
+  background-repeat: no-repeat;
+  background-size: cover;
+  animation: fade1 8s;
+}
+
+.imgslider2
+{
+  background-image:SimplyArabic/images/clip2.png;
+  background-repeat: no-repeat;
+  background-size: cover;
+  animation: fade2 8s;
+}
+
+.imgslider3
+{
+  background-image:SimplyArabic/images/clip3.png;
+  background-repeat: no-repeat;
+  background-size: cover;
+  animation: fade3 8s;
+}
+
+.imgslider4
+{
+  background-image:SimplyArabic/images/clip4.png;
+  background-repeat: no-repeat;
+  background-size: cover;
+  animation: fade4 8s;
+}
+
+@keyframes fade1
+{
+  0%
+  {
+    opacity: 1;
+  }
+  25%
+  {
+    opacity:0;
+  }
+  75%
+  {
+    opacity: 0;
+  }
+  100%
+  {
+    opacity: 0;
+  }
+}
+@keyframes fade2
+{
+  0%
+  {
+    opacity: 0;
+  }
+  25%
+  {
+    opacity:1;
+  }
+  75%
+  {
+    opacity: 0;
+  }
+  100%
+  {
+    opacity: 0;
+  }
+}
+@keyframes fade3
+{
+  0%
+  {
+    opacity: 0;
+  }
+  25%
+  {
+    opacity:0;
+  }
+  75%
+  {
+    opacity: 1;
+  }
+  100%
+  {
+    opacity: 0;
+  }
+}
+@keyframes fade4
+{
+  0%
+  {
+    opacity: 0;
+  }
+  25%
+  {
+    opacity:0;
+  }
+  75%
+  {
+    opacity: 0;
+  }
+  100%
+  {
+    opacity: 1;
+  }
 }
