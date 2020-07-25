@@ -1,0 +1,224 @@
+
+.imgBoxBoy
+  {
+    width: 262px;
+    height: 262px;
+    background:url("images/boy.png") no-repeat center;
+    background-size: 60%;
+  }
+.imgBoxBoy:hover {
+      width: 262px;
+      height: 262px;
+      background:url("images/boypressedarabic.png") no-repeat center;
+      background-size: 60%;
+    }
+
+.imgBoxChef
+  {
+    width: 262px;
+    height: 262px;
+    background:url("images/chef.png") no-repeat center;
+    background-size: 60%;
+  }
+.imgBoxChef:hover {
+      width: 262px;
+      height: 262px;
+      background:url("images/chefpressedarabic.png") no-repeat center;
+      background-size: 60%;
+    }
+
+.imgBoxDoctor
+  {
+    width: 262px;
+    height: 262px;
+    background:url("images/doctor.png") no-repeat center;
+    background-size: 60%;
+  }
+.imgBoxDoctor:hover {
+      width: 262px;
+      height: 262px;
+      background:url("images/doctorpressedarabic.png") no-repeat center;
+      background-size: 60%;
+    }
+
+.imgBoxFirefighter
+  {
+    width: 262px;
+    height: 262px;
+    background:url("images/firefighter.png") no-repeat center;
+    background-size: 60%;
+  }
+.imgBoxFirefighter:hover {
+      width: 262px;
+      height: 262px;
+      background:url("images/firefighterpressedarabic.png") no-repeat center;
+      background-size: 60%;
+    }
+
+.imgBoxGirl
+  {
+    width: 262px;
+    height: 262px;
+    background:url("images/girl.png") no-repeat center;
+    background-size: 60%;
+  }
+.imgBoxGirl:hover {
+      width: 262px;
+      height: 262px;
+      background:url("images/girlpressedarabic.png") no-repeat center;
+      background-size: 60%;
+    }
+
+.imgBoxJanitor
+  {
+    width: 262px;
+    height: 232px;
+    background:url("images/janitor.png") no-repeat center;
+    background-size: 60%;
+  }
+.imgBoxJanitor:hover {
+      width: 262px;
+      height: 232px;
+      background:url("images/janitorpressedarabic.png") no-repeat center;
+      background-size: 60%;
+    }
+
+.imgBoxJudge
+  {
+    width: 262px;
+    height: 262px;
+    background:url("images/judge.png") no-repeat center;
+    background-size: 60%;
+  }
+.imgBoxJudge:hover {
+      width: 262px;
+      height: 262px;
+      background:url("images/judgepressedarabic.png") no-repeat center;
+      background-size: 60%;
+    }
+
+.imgBoxLawyer
+  {
+    width: 262px;
+    height: 262px;
+    background:url("images/lawyer.png") no-repeat center;
+    background-size: 60%;
+  }
+.imgBoxLawyer:hover {
+      width: 262px;
+      height: 262px;
+      background:url("images/lawyerpressedarabic.png") no-repeat center;
+      background-size: 60%;
+    }
+
+.imgBoxMailman
+  {
+    width: 262px;
+    height: 262px;
+    background:url("images/mailman.png") no-repeat center;
+    background-size: 60%;
+  }
+.imgBoxMailman:hover {
+      width: 262px;
+      height: 262px;
+      background:url("images/mailmanpressedarabic.png") no-repeat center;
+      background-size: 60%;
+    }
+
+.imgBoxMan
+  {
+    width: 262px;
+    height: 262px;
+    background:url("images/man.png") no-repeat center;
+    background-size: 60%;
+  }
+.imgBoxMan:hover {
+      width: 262px;
+      height: 262px;
+      background:url("images/manpressedarabic.png") no-repeat center;
+      background-size: 60%;
+    }
+
+.imgBoxMechanic
+  {
+    width: 262px;
+    height: 262px;
+    background:url("images/mechanic.png") no-repeat center;
+    background-size: 60%;
+  }
+.imgBoxMechanic:hover {
+      width: 262px;
+      height: 262px;
+      background:url("images/mechanicpressedarabic.png") no-repeat center;
+      background-size: 60%;
+    }
+
+.imgBoxOfficer
+  {
+    width: 262px;
+    height: 262px;
+    background:url("images/officer.png") no-repeat center;
+    background-size: 60%;
+  }
+.imgBoxOfficer:hover {
+      width: 262px;
+      height: 262px;
+      background:url("images/officerpressedarabic.png") no-repeat center;
+      background-size: 60%;
+    }
+
+.imgBoxPilot
+  {
+    width: 262px;
+    height: 262px;
+    background:url("images/pilot.png") no-repeat center;
+    background-size: 60%;
+  }
+.imgBoxPilot:hover {
+      width: 262px;
+      height: 262px;
+      background:url("images/pilotpressedarabic.png") no-repeat center;
+      background-size: 60%;
+    }
+
+.imgBoxTeacher
+  {
+    width: 262px;
+    height: 262px;
+    background:url("images/teacher.png") no-repeat center;
+    background-size: 60%;
+  }
+.imgBoxTeacher:hover {
+      width: 262px;
+      height: 262px;
+      background:url("images/teacherpressedarabic.png") no-repeat center;
+      background-size: 60%;
+    }
+
+.imgBoxWaiter
+  {
+    width: 262px;
+    height: 262px;
+    background:url("images/waiter.png") no-repeat center;
+    background-size: 60%;
+  }
+.imgBoxWaiter:hover {
+      width: 262px;
+      height: 262px;
+      background:url("images/waiterpressedarabic.png") no-repeat center;
+      background-size: 60%;
+    }
+
+.imgBoxWoman
+  {
+    width: 262px;
+    height: 262px;
+    background:url("images/woman.png") no-repeat center;
+    background-size: 60%;
+  }
+.imgBoxWoman:hover {
+      width: 262px;
+      height: 262px;
+      background:url("images/womanpressedarabic.png") no-repeat center;
+      background-size: 60%;
+    }

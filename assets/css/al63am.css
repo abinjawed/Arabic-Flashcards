@@ -1,0 +1,549 @@
+
+.imgBoxApple
+  {
+      width: 262px;
+      height: 262px;
+    background:url("images/apple.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxApple:hover {
+      width: 262px;
+      height: 262px;
+      background:url("images/applepressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxAsparagus
+  {
+      width: 262px;
+      height: 262px;
+    background:url("images/asparagus.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxAsparagus:hover {
+      width: 262px;
+      height: 262px;
+      background:url("images/asparaguspressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxBanana
+  {
+      width: 262px;
+      height: 262px;
+    background:url("images/banana.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxBanana:hover {
+      width: 262px;
+      height: 262px;
+      background:url("images/bananapressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxBeans
+  {
+      width: 262px;
+      height: 262px;
+    background:url("images/beans.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxBeans:hover {
+      width: 262px;
+      height: 262px;
+      background:url("images/beanspressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxBroccoli
+  {
+      width: 262px;
+      height: 262px;
+    background:url("images/broccoli.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxBroccoli:hover {
+      width: 262px;
+      height: 262px;
+      background:url("images/broccolipressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxCantaloupe
+  {
+      width: 262px;
+      height: 262px;
+    background:url("images/cantaloupe.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxCantaloupe:hover {
+      width: 262px;
+      height: 262px;
+      background:url("images/cantaloupepressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxCarrot
+  {
+      width: 262px;
+      height: 262px;
+    background:url("images/carrot.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxCarrot:hover {
+      width: 262px;
+      height: 262px;
+      background:url("images/carrotpressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxCelery
+  {
+      width: 262px;
+      height: 262px;
+    background:url("images/celery.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxCelery:hover {
+      width: 262px;
+      height: 262px;
+      background:url("images/celerypressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxCoffee
+  {
+      width: 262px;
+      height: 262px;
+    background:url("images/coffee.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxCoffee:hover {
+      width: 262px;
+      height: 262px;
+      background:url("images/coffeepressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxCucumber
+  {
+      width: 262px;
+      height: 262px;
+    background:url("images/cucumber.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxCucumber:hover {
+      width: 262px;
+      height: 262px;
+      background:url("images/cucumberpressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxDate
+  {
+      width: 262px;
+      height: 262px;
+    background:url("images/date.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxDate:hover {
+      width: 262px;
+      height: 262px;
+      background:url("images/datepressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxGarlic
+  {
+      width: 262px;
+      height: 262px;
+    background:url("images/garlic.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxGarlic:hover {
+      width: 262px;
+      height: 262px;
+      background:url("images/garlicpressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxGrapes
+  {
+      width: 262px;
+      height: 262px;
+    background:url("images/grapes.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxGrapes:hover {
+      width: 262px;
+      height: 262px;
+      background:url("images/grapespressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxGuava
+  {
+      width: 262px;
+      height: 262px;
+    background:url("images/guava.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxGuava:hover {
+      width: 262px;
+      height: 262px;
+      background:url("images/guavapressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxHoneydew
+  {
+      width: 262px;
+      height: 262px;
+    background:url("images/honeydew.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxHoneydew:hover {
+      width: 262px;
+      height: 262px;
+      background:url("images/honeydewpressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxJuice
+  {
+      width: 262px;
+      height: 262px;
+    background:url("images/juice.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxJuice:hover {
+      width: 262px;
+      height: 262px;
+      background:url("images/juicepressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxKiwi
+  {
+      width: 262px;
+      height: 262px;
+    background:url("images/kiwi.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxKiwi:hover {
+      width: 262px;
+      height: 262px;
+      background:url("images/kiwipressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxLemon
+  {
+      width: 262px;
+      height: 262px;
+    background:url("images/lemon.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxLemon:hover {
+      width: 262px;
+      height: 262px;
+      background:url("images/lemonpressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxLettuce
+  {
+      width: 262px;
+      height: 262px;
+    background:url("images/lettuce.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxLettuce:hover {
+      width: 262px;
+      height: 262px;
+      background:url("images/lettucepressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxLime
+  {
+      width: 262px;
+      height: 262px;
+    background:url("images/lime.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxLime:hover {
+      width: 262px;
+      height: 262px;
+      background:url("images/limepressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxMango
+  {
+      width: 262px;
+      height: 262px;
+    background:url("images/mango.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxMango:hover {
+      width: 262px;
+      height: 262px;
+      background:url("images/mangopressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxMilk
+  {
+      width: 262px;
+      height: 262px;
+    background:url("images/milk.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxMilk:hover {
+      width: 262px;
+      height: 262px;
+      background:url("images/milkpressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxOlive
+  {
+      width: 262px;
+      height: 262px;
+    background:url("images/olive.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxOlive:hover {
+      width: 262px;
+      height: 262px;
+      background:url("images/olivepressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxOnion
+  {
+      width: 262px;
+      height: 262px;
+    background:url("images/onion.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxOnion:hover {
+      width: 262px;
+      height: 262px;
+      background:url("images/onionpressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxOrange
+  {
+      width: 262px;
+      height: 262px;
+    background:url("images/orange.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxOrange:hover {
+      width: 262px;
+      height: 262px;
+      background:url("images/orangepressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxPeach
+  {
+    width: 262px;
+    height: 262px;
+    background:url("images/peach.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxPeach:hover {
+      width: 262px;
+      height: 262px;
+      background:url("images/peachpressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxPear
+  {
+    width: 262px;
+    height: 262px;
+    background:url("images/pear.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxPear:hover
+  {
+    width: 262px;
+    height: 262px;
+    background:url("images/pearpressedarabic.png") no-repeat center;
+    background-size: 90%;
+  }
+
+.imgBoxPeas
+  {
+    width: 262px;
+    height: 262px;
+    background:url("images/peas.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxPeas:hover {
+      width: 262px;
+      height: 262px;
+      background:url("images/peaspressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxPineapple
+  {
+    width: 262px;
+    height: 262px;
+    background:url("images/pineapple.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxPineapple:hover {
+      width: 262px;
+      height: 262px;
+      background:url("images/pineapplepressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxPomegranate
+  {
+    width: 262px;
+    height: 262px;
+    background:url("images/pomegranate.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxPomegranate:hover {
+      width: 262px;
+      height: 262px;
+      background:url("images/pomegranatepressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxPotato
+  {
+    width: 262px;
+    height: 262px;
+    background:url("images/potato.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxPotato:hover {
+      width: 262px;
+      height: 262px;
+      background:url("images/potatopressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxRadish
+  {
+    width: 262px;
+    height: 262px;
+    background:url("images/radish.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxRadish:hover {
+      width: 262px;
+      height: 262px;
+      background:url("images/radishpressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxSoda
+  {
+    width: 262px;
+    height: 262px;
+    background:url("images/soda.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxSoda:hover {
+      width: 262px;
+      height: 262px;
+      background:url("images/sodapressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxStrawberry
+  {
+    width: 262px;
+    height: 262px;
+    background:url("images/strawberry.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxStrawberry:hover {
+      width: 262px;
+      height: 262px;
+      background:url("images/strawberrypressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxTea
+  {
+    width: 262px;
+    height: 262px;
+    background:url("images/tea.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxTea:hover {
+      width: 262px;
+      height: 262px;
+      background:url("images/teapressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxTomato
+  {
+    width: 262px;
+    height: 262px;
+    background:url("images/tomato.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxTomato:hover {
+      width: 262px;
+      height: 262px;
+      background:url("images/tomatopressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxWater
+  {
+    width: 262px;
+    height: 262px;
+    background:url("images/water.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxWater:hover {
+      width: 262px;
+      height: 262px;
+      background:url("images/waterpressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxWatermelon
+  {
+    width: 262px;
+    height: 262px;
+    background:url("images/watermelon.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxWatermelon:hover {
+      width: 262px;
+      height: 262px;
+      background:url("images/watermelonpressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxGoback
+  {
+    width: 262px;
+    height: 262px;
+    background:url("images/goback.png") no-repeat center;
+    background-size: 90%;
+  }
+
+.imgBoxHomepage
+  {
+    width: 262px;
+    height: 262px;
+    background:url("images/homepage.png") no-repeat center;
+    background-size: 90%;
+  }

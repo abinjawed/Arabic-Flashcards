@@ -1,0 +1,931 @@
+.imgBoxAlligator
+  {
+    width: 260px;
+    height: 202px;
+    background:url("images/alligator.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxAlligator:hover {
+      width: 260px;
+      height: 202px;
+      background:url("images/alligatorpressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxAnt
+  {
+    width: 260px;
+    height: 202px;
+    background:url("images/ant.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxAnt:hover {
+      width: 260px;
+      height: 202px;
+      background:url("images/antpressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxBat
+  {
+    width: 260px;
+    height: 202px;
+    background:url("images/bat.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxBat:hover {
+      width: 260px;
+      height: 202px;
+      background:url("images/batpressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxBear
+  {
+    width: 260px;
+    height: 202px;
+    background:url("images/bear.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxBear:hover {
+      width: 260px;
+      height: 202px;
+      background:url("images/bearpressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxBee
+  {
+    width: 260px;
+    height: 202px;
+    background:url("images/bee.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxBee:hover {
+      width: 260px;
+      height: 202px;
+      background:url("images/beepressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxBird
+  {
+    width: 260px;
+    height: 202px;
+    background:url("images/bird.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxBird:hover {
+      width: 260px;
+      height: 202px;
+      background:url("images/birdpressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxButterfly
+  {
+    width: 260px;
+    height: 202px;
+    background:url("images/butterfly.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxButterfly:hover {
+      width: 260px;
+      height: 202px;
+      background:url("images/butterflypressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxCamel
+  {
+    width: 260px;
+    height: 202px;
+    background:url("images/camel.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxCamel:hover {
+      width: 260px;
+      height: 202px;
+      background:url("images/camelpressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxCat
+  {
+    width: 260px;
+    height: 202px;
+    background:url("images/cat.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxCat:hover {
+      width: 260px;
+      height: 202px;
+      background:url("images/catpressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxCheetah
+  {
+    width: 260px;
+    height: 202px;
+    background:url("images/cheetah.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxCheetah:hover {
+      width: 260px;
+      height: 202px;
+      background:url("images/cheetahpressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxChicken
+  {
+    width: 260px;
+    height: 202px;
+    background:url("images/chicken.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxChicken:hover {
+      width: 260px;
+      height: 202px;
+      background:url("images/chickenpressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxCow
+  {
+    width: 260px;
+    height: 202px;
+    background:url("images/cow.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxCow:hover {
+      width: 260px;
+      height: 202px;
+      background:url("images/cowpressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxCrab
+  {
+    width: 260px;
+    height: 202px;
+    background:url("images/crab.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxCrab:hover {
+      width: 260px;
+      height: 202px;
+      background:url("images/crabpressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxDeer
+  {
+    width: 260px;
+    height: 202px;
+    background:url("images/deer.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxDeer:hover {
+      width: 260px;
+      height: 202px;
+      background:url("images/deerpressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxDog
+  {
+    width: 260px;
+    height: 202px;
+    background:url("images/dog.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxDog:hover {
+      width: 260px;
+      height: 202px;
+      background:url("images/dogpressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxDolphin
+  {
+    width: 260px;
+    height: 202px;
+    background:url("images/dolphin.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxDolphin:hover {
+      width: 260px;
+      height: 202px;
+      background:url("images/dolphinpressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxDonkey
+  {
+    width: 260px;
+    height: 202px;
+    background:url("images/donkey.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxDonkey:hover {
+      width: 260px;
+      height: 202px;
+      background:url("images/donkeypressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxDuck
+  {
+    width: 260px;
+    height: 202px;
+    background:url("images/duck.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxDuck:hover {
+      width: 260px;
+      height: 202px;
+      background:url("images/duckpressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxEagle
+  {
+    width: 260px;
+    height: 202px;
+    background:url("images/eagle.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxEagle:hover {
+      width: 260px;
+      height: 202px;
+      background:url("images/eaglepressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxElephant
+  {
+    width: 260px;
+    height: 202px;
+    background:url("images/elephant.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxElephant:hover {
+      width: 260px;
+      height: 202px;
+      background:url("images/elephantpressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxFish
+  {
+    width: 260px;
+    height: 202px;
+    background:url("images/fish.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxFish:hover {
+      width: 260px;
+      height: 202px;
+      background:url("images/fishpressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxFlamingo
+  {
+    width: 260px;
+    height: 202px;
+    background:url("images/flamingo.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxFlamingo:hover {
+      width: 260px;
+      height: 202px;
+      background:url("images/flamingopressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxFly
+  {
+    width: 260px;
+    height: 202px;
+    background:url("images/fly.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxFly:hover {
+      width: 260px;
+      height: 202px;
+      background:url("images/flypressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxFox
+  {
+    width: 260px;
+    height: 202px;
+    background:url("images/fox.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxFox:hover {
+      width: 260px;
+      height: 202px;
+      background:url("images/foxpressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxFrog
+  {
+    width: 260px;
+    height: 202px;
+    background:url("images/frog.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxFrog:hover {
+      width: 260px;
+      height: 202px;
+      background:url("images/frogpressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxGiraffe
+  {
+    width: 260px;
+    height: 202px;
+    background:url("images/giraffe.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxGiraffe:hover {
+      width: 260px;
+      height: 202px;
+      background:url("images/giraffepressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxGoat
+  {
+    width: 260px;
+    height: 202px;
+    background:url("images/goat.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxGoat:hover {
+      width: 260px;
+      height: 202px;
+      background:url("images/goatpressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxHippo
+  {
+    width: 260px;
+    height: 202px;
+    background:url("images/hippo.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxHippo:hover {
+      width: 260px;
+      height: 202px;
+      background:url("images/hippopressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxHorse
+  {
+    width: 260px;
+    height: 202px;
+    background:url("images/horse.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxHorse:hover {
+      width: 260px;
+      height: 202px;
+      background:url("images/horsepressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxHyena
+  {
+    width: 260px;
+    height: 202px;
+    background:url("images/hyena.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxHyena:hover {
+      width: 260px;
+      height: 202px;
+      background:url("images/hyenapressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxJellyfish
+  {
+    width: 260px;
+    height: 202px;
+    background:url("images/jellyfish.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxJellyfish:hover {
+      width: 260px;
+      height: 202px;
+      background:url("images/jellyfishpressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxKangaroo
+  {
+    width: 260px;
+    height: 202px;
+    background:url("images/kangaroo.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxKangaroo:hover {
+      width: 260px;
+      height: 202px;
+      background:url("images/kangaroopressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxLeopard
+  {
+    width: 260px;
+    height: 202px;
+    background:url("images/leopard.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxLeopard:hover {
+      width: 260px;
+      height: 202px;
+      background:url("images/leopardpressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxLion
+  {
+    width: 260px;
+    height: 202px;
+    background:url("images/lion.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxLion:hover {
+      width: 260px;
+      height: 202px;
+      background:url("images/lionpressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxLizard
+  {
+    width: 260px;
+    height: 202px;
+    background:url("images/lizard.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxLizard:hover {
+      width: 260px;
+      height: 202px;
+      background:url("images/lizardpressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxLobster
+  {
+    width: 260px;
+    height: 202px;
+    background:url("images/lobster.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxLobster:hover {
+      width: 260px;
+      height: 202px;
+      background:url("images/lobsterpressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxMonkey
+  {
+    width: 260px;
+    height: 202px;
+    background:url("images/monkey.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxMonkey:hover {
+      width: 260px;
+      height: 202px;
+      background:url("images/monkeypressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxMosquito
+  {
+    width: 260px;
+    height: 202px;
+    background:url("images/mosquito.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxMosquito:hover {
+      width: 260px;
+      height: 202px;
+      background:url("images/mosquitopressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxMouse
+  {
+    width: 260px;
+    height: 202px;
+    background:url("images/mouse.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxMouse:hover {
+      width: 260px;
+      height: 202px;
+      background:url("images/mousepressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxOctopus
+  {
+    width: 260px;
+    height: 202px;
+    background:url("images/octopus.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxOctopus:hover {
+      width: 260px;
+      height: 202px;
+      background:url("images/octopuspressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxOstrich
+  {
+    width: 260px;
+    height: 202px;
+    background:url("images/ostrich.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxOstrich:hover {
+      width: 260px;
+      height: 202px;
+      background:url("images/ostrichpressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxOwl
+  {
+    width: 260px;
+    height: 202px;
+    background:url("images/owl.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxOwl:hover {
+      width: 260px;
+      height: 202px;
+      background:url("images/owlpressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxParrot
+  {
+    width: 260px;
+    height: 202px;
+    background:url("images/parrot.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxParrot:hover {
+      width: 260px;
+      height: 202px;
+      background:url("images/parrotpressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxPeacock
+  {
+    width: 260px;
+    height: 202px;
+    background:url("images/peacock.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxPeacock:hover {
+      width: 260px;
+      height: 202px;
+      background:url("images/peacockpressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxRabbit
+  {
+    width: 260px;
+    height: 202px;
+    background:url("images/rabbit.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxRabbit:hover {
+      width: 260px;
+      height: 202px;
+      background:url("images/rabbitpressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxRat
+  {
+    width: 260px;
+    height: 202px;
+    background:url("images/rat.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxRat:hover {
+      width: 260px;
+      height: 202px;
+      background:url("images/ratpressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxRhino
+  {
+    width: 260px;
+    height: 202px;
+    background:url("images/rhino.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxRhino:hover {
+      width: 260px;
+      height: 202px;
+      background:url("images/rhinopressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxRooster
+  {
+    width: 260px;
+    height: 202px;
+    background:url("images/rooster.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxRooster:hover {
+      width: 260px;
+      height: 202px;
+      background:url("images/roosterpressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxSeahorse
+  {
+    width: 260px;
+    height: 202px;
+    background:url("images/seahorse.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxSeahorse:hover {
+      width: 260px;
+      height: 202px;
+      background:url("images/seahorsepressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxSeastar
+  {
+    width: 260px;
+    height: 202px;
+    background:url("images/seastar.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxSeastar:hover {
+      width: 260px;
+      height: 202px;
+      background:url("images/seastarpressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxShark
+  {
+    width: 260px;
+    height: 202px;
+    background:url("images/shark.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxShark:hover {
+      width: 260px;
+      height: 202px;
+      background:url("images/sharkpressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxAlligator
+  {
+    width: 260px;
+    height: 202px;
+    background:url("images/alligator.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxAlligator:hover {
+      width: 260px;
+      height: 202px;
+      background:url("images/alligatorpressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxSheep
+  {
+    width: 260px;
+    height: 202px;
+    background:url("images/sheep.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxSheep:hover {
+      width: 260px;
+      height: 202px;
+      background:url("images/sheeppressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxShrimp
+  {
+    width: 260px;
+    height: 202px;
+    background:url("images/shrimp.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxShrimp:hover {
+      width: 260px;
+      height: 202px;
+      background:url("images/shrimppressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxSnake
+  {
+    width: 260px;
+    height: 202px;
+    background:url("images/snake.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxSnake:hover {
+      width: 260px;
+      height: 202px;
+      background:url("images/snakepressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxSpider
+  {
+    width: 260px;
+    height: 202px;
+    background:url("images/spider.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxSpider:hover {
+      width: 260px;
+      height: 202px;
+      background:url("images/spiderpressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxSquid
+  {
+    width: 260px;
+    height: 202px;
+    background:url("images/squid.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxSquid:hover {
+      width: 260px;
+      height: 202px;
+      background:url("images/squidpressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxSquirrel
+  {
+    width: 260px;
+    height: 202px;
+    background:url("images/squirrel.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxSquirrel:hover {
+      width: 260px;
+      height: 202px;
+      background:url("images/squirrelpressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxTiger
+  {
+    width: 260px;
+    height: 202px;
+    background:url("images/tiger.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxTiger:hover {
+      width: 260px;
+      height: 202px;
+      background:url("images/tigerpressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxTurkey
+  {
+    width: 260px;
+    height: 202px;
+    background:url("images/turkey.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxTurkey:hover {
+      width: 260px;
+      height: 202px;
+      background:url("images/turkeypressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxTurtle
+  {
+    width: 260px;
+    height: 202px;
+    background:url("images/turtle.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxTurtle:hover {
+      width: 260px;
+      height: 202px;
+      background:url("images/turtlepressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxWalrus
+  {
+    width: 260px;
+    height: 202px;
+    background:url("images/walrus.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxWalrus:hover {
+      width: 260px;
+      height: 202px;
+      background:url("images/walruspressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxWhale
+  {
+    width: 260px;
+    height: 202px;
+    background:url("images/whale.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxWhale:hover {
+      width: 260px;
+      height: 202px;
+      background:url("images/whalepressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxWolf
+  {
+    width: 260px;
+    height: 202px;
+    background:url("images/wolf.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxWolf:hover {
+      width: 260px;
+      height: 202px;
+      background:url("images/wolfpressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxWorm
+  {
+    width: 260px;
+    height: 202px;
+    background:url("images/worm.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxWorm:hover {
+      width: 260px;
+      height: 202px;
+      background:url("images/wormpressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.imgBoxZebra
+  {
+    width: 260px;
+    height: 202px;
+    background:url("images/zebra.png") no-repeat center;
+    background-size: 90%;
+  }
+.imgBoxZebra:hover {
+      width: 260px;
+      height: 202px;
+      background:url("images/zebrapressedarabic.png") no-repeat center;
+      background-size: 90%;
+    }
+
+.goback {
+  margin: 5px 0 0 610px;
+}
+
+.homepage {
+  margin: 5px -10 0 550px;
+}
