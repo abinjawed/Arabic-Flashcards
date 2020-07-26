@@ -1,2 +1,9 @@
 
 WebView: we are building a web app in WebView: https://developer.android.com/guide/webapps/webview
+
+PhoneGap: a software development framework by Adobe System, which is used to develop mobile applications. 
+To develop apps using PhoneGap, the developer does not require to have knowledge of mobile programming language 
+but only web-development languages like, HTML, CSS, and JScript:  https://www.tutorialspoint.com/phonegap/index.htm
+
+Native Apps vs Web Apps vs Hybrid Apps: please read the following article:  https://www.mobiloud.com/blog/native-web-or-hybrid-apps/
+
