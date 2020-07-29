@@ -10,4 +10,4 @@ Step Five: If necessary, change the constrict layout to relative layout as per h
 
 Step Six: drag and drop the widget "WebView" into Relative Layout.
 
-Step Seven: name the WebView with id from <unnamed "webView".
+Step Seven: name the WebView with id from <unnamed> "webView".
