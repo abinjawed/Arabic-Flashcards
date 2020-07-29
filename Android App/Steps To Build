@@ -7,3 +7,7 @@ Step Three: Create New *Directory* within the new assets folder as per https://w
 Step Four: Create New *File* within new directory... the file can either be .html, .css, or .js
 
 Step Five: If necessary, change the constrict layout to relative layout as per https://stackoverflow.com/questions/42261712/how-to-switch-from-the-default-constraintlayout-to-relativelayout-in-android-stu
+
+Step Six: drag and drop the widget "WebView" into Relative Layout.
+
+Step Seven: name the WebView with id from <unnamed "webView".
