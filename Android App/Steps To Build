@@ -11,3 +11,5 @@ Step Five: If necessary, change the constrict layout to relative layout as per h
 Step Six: drag and drop the widget "WebView" into Relative Layout.
 
 Step Seven: name the WebView with id from <unnamed> "webView".
+
+Step Eight: ensure the Android Media Player can play mp3 files as per https://developer.clevertap.com/docs/add-a-sound-file-to-your-android-app
