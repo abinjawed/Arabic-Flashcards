@@ -15,3 +15,5 @@ Step Seven: name the WebView with id from <unnamed> "webView".
 Step Eight (optional?): ensure the Android Media Player can play mp3 files as per https://developer.clevertap.com/docs/add-a-sound-file-to-your-android-app
 
 Step Nine: Create an Audio interface from an HTML File as per https://www.codeproject.com/Tips/677841/Playing-Audio-on-Android-from-an-HTML-File
+
+or possibly as per this link https://www.youtube.com/watch?v=Vx7USzVp41o
