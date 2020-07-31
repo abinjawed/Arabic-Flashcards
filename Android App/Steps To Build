@@ -17,3 +17,5 @@ Step Eight (optional?): ensure the Android Media Player can play mp3 files as pe
 Step Nine: Create an Audio interface from an HTML File as per https://www.codeproject.com/Tips/677841/Playing-Audio-on-Android-from-an-HTML-File
 
 or possibly as per this link https://www.youtube.com/watch?v=Vx7USzVp41o
+
+Step Ten: Allow multiple html pages in one web View (as per...?)
