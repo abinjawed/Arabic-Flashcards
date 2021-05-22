@@ -1,15 +1,15 @@
 # Simply Arabic
-This is a packaged solution to give you a crash course in the Arabic language.
+This is a packaged solution to give you a crash course in the Arabic vocabulary.
 
 ### Install
+To deploy on Google Play, the `Android SDK` is required, which can be installed on most respective operating systems (Windows, MacOS, or Linux):
+https://developer.android.com/studio
+
+The mobile app framework had its HTML,CSS, JavaScript was wrapped in Apache Cordova: https://cordova.apache.org/
 
 ### Code
-The `stories.html` page has `button` elements requiring a kit code from `fontawesome.com` to be linked.
+The Cordova command-line runs on `Node.js` and is available on NPM: https://nodejs.org/en/
 
 ### Run
 
 ### Data
-
-
-Flowchart of html pages:
-https://docs.google.com/drawings/d/1Q18kNe_7NLRPi7ig8HDH9bAXsLmdcdEpZsBzFpALLfw/edit
