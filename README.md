@@ -7,6 +7,9 @@ https://developer.android.com/studio
 
 The mobile app framework had its HTML,CSS, JavaScript was wrapped in Apache Cordova: https://cordova.apache.org/
 
+You may need to install intexl `HAXM` manually to Windows of Mac if unable to install it in Android Studio: 
+https://github.com/intel/haxm/
+
 ### Code
 The Cordova command-line runs on `Node.js` and is available on NPM: https://nodejs.org/en/
 
