@@ -23,9 +23,11 @@ https://developer.android.com/studio?gclid=EAIaIQobChMIi-3w3t_d8AIViiitBh0-DwWHE
 
 Depending on which Windows Edition you have, you may not have Windows Server Virtualization, such as `Hyper-V` available on your system.
 
-### Setting up an Emulator
-If you wish to run your Cordova app on an Android emulator, you will first need to create an Android Virtual Device (AVD). 
+If you are unable to install Intel `HAXM` in Android Studio, you may need to try installing it manually on your Windows OS or MacOS.
 
-If you are unable to install Intel `HAXM`, one option might be to configure an AVD (Virtual Device) in Android Studio.
+### Setting up an Emulator
+If you don't want to physically connect a device to test your Cordova app, you can run it on an Android emulator.
+
+First, you will first need to create an Android Virtual Device (AVD).
 
 ### Data
