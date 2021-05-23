@@ -11,11 +11,16 @@ The mobile app framework had its HTML,CSS, JavaScript was wrapped in Apache Cord
 The Cordova command-line runs on `Node.js` and is available on NPM: https://nodejs.org/en/
 
 ### Run
-You need to configure your environment variables, `JAVA_HOME` and `PATH`.
+You need to configure your environment variables, `JAVA_HOME`, `ANDROID_HOME` and `PATH`.
 
 `JAVA_HOME` must contain the path to java, and you should add %JAVA_HOME%\bin to `PATH`
 
 If you do not need Android Studio, you can download the basic Android command line tools to acces `SDK` packages:
 https://developer.android.com/studio?gclid=EAIaIQobChMIi-3w3t_d8AIViiitBh0-DwWHEAAYASAAEgLHF_D_BwE&gclsrc=aw.ds
+
+Depending on which Windows Edition you have, you may not have `Hyper-V` available on your system.
+
+You also may not be able to install Intel `HAXM`, which means it might be better to use an AVD (Virtual Device)
+instead of connecting to a physical device to test your Android project.
 
 ### Data
