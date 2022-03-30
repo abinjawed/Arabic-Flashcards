@@ -1,7 +1,11 @@
 # Simply Arabic
 This is a packaged solution to give you a crash course in the Arabic vocabulary.
 
-### Install
+## Install
+
+Download: This app is available for download at [Google Play Store](https://play.google.com/store/apps/details?id=com.learnsimply.arabic&hl=en_US&gl=US).
+
+### Environment
 To deploy on Google Play, the `Android SDK` is required, which can be installed on most operating systems (Windows, MacOS, or Linux):
 https://developer.android.com/studio
 
