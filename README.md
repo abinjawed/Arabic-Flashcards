@@ -29,5 +29,3 @@ If you are unable to install Intel `HAXM` in Android Studio, you may need to try
 If you don't want to physically connect a device to test your Cordova app, you can run it on an Android emulator.
 
 First, you will first need to create an Android Virtual Device (AVD).
-
-### Data
